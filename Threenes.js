@@ -1,0 +1,3 @@
+function CreateBox(pos, color){
+
+}
